@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: 19bab2d67d844af45a8ef97438ad2e77
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Montserrat Alternates
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 444c26bb2ff02444fa95f36b6cf52a48, type: 3}
+  - {fileID: 12800000, guid: 37e3a380605cdb148bbc2f6169c41645, type: 3}
+  - {fileID: 12800000, guid: 403a507488a80124fa4d130a17bcc921, type: 3}
+  - {fileID: 12800000, guid: 188e1a514732e2f48b6b3fcbebc40c61, type: 3}
+  - {fileID: 12800000, guid: 3032164da6e18ba47a406e917b9a8f0a, type: 3}
+  - {fileID: 12800000, guid: 312f3c48a92f4bf45930f985106896ff, type: 3}
+  - {fileID: 12800000, guid: 9439ffffa8abf1e47a107e2a88683382, type: 3}
+  - {fileID: 12800000, guid: c7a7c2731ee29b849b481e914dade7d6, type: 3}
+  - {fileID: 12800000, guid: 093c54cc3d3c2414aae65993131a0d42, type: 3}
+  - {fileID: 12800000, guid: 5462183553712bb438d867d997efa98b, type: 3}
+  - {fileID: 12800000, guid: a7159ed5d57464e4198cc09a9d34c324, type: 3}
+  - {fileID: 12800000, guid: d2276a52127aae043b965ff21d93d7a5, type: 3}
+  - {fileID: 12800000, guid: 98687c633ed09444b8da7949ff5ad667, type: 3}
+  - {fileID: 12800000, guid: 1616bc0c44b9fa840addd9f36f4b80bd, type: 3}
+  - {fileID: 12800000, guid: 0259decf26559bd47b607c4157b00ae3, type: 3}
+  - {fileID: 12800000, guid: a4069b76c8844e9478a33d22bd0c5a04, type: 3}
+  - {fileID: 12800000, guid: 21b9d20ab9f8f0244a685c4ca21266d1, type: 3}
+  - {fileID: 12800000, guid: 9648ed64622f7d44996ba01a5bcaa59a, type: 3}
+  - {fileID: 12800000, guid: c7555e197baf31b4b838c66c3d015c25, type: 3}
+  - {fileID: 12800000, guid: 95790cfa420093443803056d8078eed2, type: 3}
+  - {fileID: 12800000, guid: 96e6e31e7bb6c834f91d53349f2337cd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
